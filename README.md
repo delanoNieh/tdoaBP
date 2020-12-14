@@ -8,8 +8,13 @@ TDOA Solution: BPNN
 
 #### Linux and OSX 
 cd /path/to/tdoaBP
+
 mkdir build
+
 cd build
+
 cmake ../
+
 make
+
 run tdoaBP
