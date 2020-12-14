@@ -7,14 +7,9 @@ TDOA Solution: BPNN
 ## Build and Run
 
 #### Linux and OSX 
-cd /path/to/tdoaBP
-
-mkdir build
-
-cd build
-
-cmake ../
-
-make
-
-run tdoaBP
+- cd /path/to/tdoaBP
+- mkdir build
+- cd build
+- cmake ../
+- make
+- run tdoaBP
