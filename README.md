@@ -1,4 +1,4 @@
-TDOA Solution: BPNN
+TDOA Solution: C++MLP
 ===============
 
 ![result compare](/postproc/png/3.10.png?raw=true)
